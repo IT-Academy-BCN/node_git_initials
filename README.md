@@ -8,10 +8,12 @@ Pots fer aquests exercicis usant la consola o bé alguna interfície gràfica co
 
 ## Instruccions exercici git
 
-Hauràs de fer les següents tasques per superar l'exercici:
+Hauràs de fer les següents tasques per superar l'exercici (pots trobar instruccions més detallades [aquí](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)):
 
-1. Clona aquest repositori a la teva màquina
+1. Fes un fork d'aquest repositori al teu Github
+2. Clona el repositori creat a la teva màquina
 3. Fes una branca nova des de `main` amb el teu nom
 4. Afegeix a la carpeta `presentacions` un document de text .txt amb la teva presentació personal
 5. Afegeix una frase a la historia que estem escrivint entre tots al document `historia.txt`
-6. Obre una _pull-request_ de la teva branca a la branca `main`
+6. Obre una _pull-request_ de la teva branca a la branca `main` del repositori inicial (el de IT Academy, no el teu)
+7. Comunica-ho al mentor perquè accepti (o no) els canvis que has realitzat al repositori
