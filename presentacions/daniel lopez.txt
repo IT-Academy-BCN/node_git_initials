@@ -1,0 +1,4 @@
+Em Dic Daniel Lopez, vaig nèixer a Barcelona l'any 1990. Vaig estudiar Física a la UAB i el grau mitjà de piano.
+M'interessa la ciència, la composició i història musical (en especial del segle XVIII).
+Altres aficions son la literatura i els videojocs.
+Tot i això, darrerament aquest curs de node.js ocupa la major part del meu temps (i del meu cor).
