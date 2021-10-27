@@ -22,4 +22,6 @@ Hauràs de fer les següents tasques per superar l'exercici:
 
 ## Recursos
 
-Aquí tens un parell de tutorials web per si necessites més ajuda: [un més inicial](https://guides.github.com/activities/hello-world/) i [un una mica més avançat](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/).
+Aquí tens un parell de tutorials web per si necessites més ajuda: 
+- [Tutorial inicial de Github](https://guides.github.com/activities/hello-world/)
+- [Tutorial de _freecodecamp_](https://www.freecodecamp.org/espanol/news/como-hacer-tu-primer-pull-request-en-github/)
