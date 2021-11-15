@@ -5,6 +5,7 @@ Va decidir fer el curs de Node.js...
 després de molts dies fent el curs va veure que alguna cosa estava passant a l'aula:
 Un nou company pelut havia començat el curs i
 volia canviar el món programmant...
+Però es va adonar que per poder canviar el món amb la programació s'havia d'envoltar d'un bon equip.
 (continúa aquí la nostra historia)
 
 
