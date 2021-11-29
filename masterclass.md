@@ -1,7 +1,7 @@
 # Masterclass GIT 
 Masterclass feta l'1 de desembre de 2021 per aprendre les funcionalitats bàsiques de git a l'itinerari de Node.js de la [IT Academy](https://www.barcelonactiva.cat/es/itacademy).
 
-## ús de GIT
+## Ús de GIT
 
 Ús diari, còpia de seguretat, control de versions, compartimentització de les actualitzacions i _features_...
 
@@ -24,10 +24,11 @@ El mateix des de la pestanya _Source Control_ de VSC: molt més simple!
 
 ## Gitflow
 
-Branques _production_ i _staging_, branques per _features_ o per _developer_...
+Branques _production_ i _staging_, branques per _features_ o per _developer_, documentació amb READMEs...
 
 - `git branch`
-- `git cheackout`
+- `git checkout`
+- Pull requests
 
 ## Exercici _git_initials_
 
