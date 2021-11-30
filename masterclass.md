@@ -26,10 +26,18 @@ El mateix des de la pestanya _Source Control_ de VSC: molt més simple!
 
 Branques _production_ i _staging_, branques per _features_ o per _developer_, documentació amb READMEs...
 
+- Forks 
 - `git branch`
 - `git checkout`
-- Pull requests
+- Pull requests (al teu i altres repos)
+
 
 ## Exercici _git_initials_
 
 Repo (on ets ara mateix): https://github.com/IT-Academy-BCN/node_git_initials
+
+
+## Extres
+
+- Github pages (repos amb `index.html`)
+- Github README.md profile ([generador de README](https://rahuldkjain.github.io/gh-profile-readme-generator/))
