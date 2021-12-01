@@ -21,6 +21,8 @@ Masterclass feta l'1 de desembre de 2021 per aprendre les funcionalitats bàsiqu
 
 El mateix des de la pestanya _Source Control_ de VSC: molt més simple!
 
+- Extensió Git Graph
+
 
 ## Gitflow
 
