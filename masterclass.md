@@ -12,6 +12,7 @@ Masterclass feta l'1 de desembre de 2021 per aprendre les funcionalitats bàsiqu
 - `git config --global user.email "johndoe@example.com"`
 
 - `git clone`
+- `git add .`
 - `git commit`
 - `git pull`
 - `git push`
@@ -21,7 +22,7 @@ Masterclass feta l'1 de desembre de 2021 per aprendre les funcionalitats bàsiqu
 
 El mateix des de la pestanya _Source Control_ de VSC: molt més simple!
 
-- Extensió Git Graph
+- [Extensió Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 
 ## Gitflow
@@ -31,6 +32,7 @@ Branques _production_ i _staging_, branques per _features_ o per _developer_, do
 - Forks 
 - `git branch`
 - `git checkout`
+- `git merge`
 - Pull requests (al teu i altres repos)
 
 
@@ -38,8 +40,11 @@ Branques _production_ i _staging_, branques per _features_ o per _developer_, do
 
 Repo (on ets ara mateix): https://github.com/IT-Academy-BCN/node_git_initials
 
+Seguiu les instruccions per fer l'exercici i practicar els conceptes de fork i pull-request 💪🏻
+
 
 ## Extres
 
-- Github pages (repos amb `index.html`)
+- Visualitzador de GIT: teniu [aquest](https://git-school.github.io/visualizing-git/) o [aquest altre](https://learngitbranching.js.org/), que inclou tutorials
+- Github pages (renderitza les pàgines dels repos amb `index.html`)
 - Github README.md profile ([generador de README](https://rahuldkjain.github.io/gh-profile-readme-generator/))
