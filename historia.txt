@@ -1,18 +1,19 @@
 Hi havia una vegada un ratolí que vivía en un forat 
 ple de fulles i brossa al peu d'un arbre 
-fins que l'especulació va deforestar el seu hàbitat i va haver de buscar-se la vida.
-Va decidir fer el curs de Node.js.
+fins que l'especulació va deforestar el seu hàbitat i va haver de buscar-se la vida:
+va decidir fer el curs de Node.js.
+
 Després de molts dies fent el curs va veure que alguna cosa estava passant a l'aula:
 un nou company pelut havia començat el curs i volia canviar el món programmant.
-Una gateta preciosa, amiga dels ratolins, programava com ningú.
+Una gateta preciosa, amiga dels ratolins, que programava com ningú.
 Van decidir començar a fer projectes tots junts perquè ja sabem que la unió fa la força.
-Un dia es va presentar un problema que no sabien com resoldre:
-la gateta no havia esmorzat i tenia molta gana,
-així que van optar per buscar informació a internet.
-El que van trobar no pintava gaire bé pel ratolí,
-i es que els mixets prefereixen un ratolí ben cuit que una amanida.
-per això va haver de sortir a caçar ratolins amb els seus companys de programacio,
-però... abans van parar en un bar a prendre una cervesa de formatge 
-El que els felins no van preveure, és que el nostre Mickey "Python" Mouse, se les savia llargues i feia de CAMBRER A LA CERVESERIA!
 
-(continua aqui la nostra historia... que s'està començant a contradir! Que algú arregli aquest BUG 😂)
+Un dia es va presentar un problema que no sabien com resoldre:
+la gateta no havia esmorzat i tenia molta gana, així que van optar per buscar informació a internet.
+El que van trobar no pintava gaire bé pel ratolí, i es que els mixets prefereixen un ratolí ben cuit que una amanida.
+Per això va haver de sortir a caçar ratolins amb els seus companys de programació, 
+però abans van parar en un bar a prendre una cervesa de formatge.
+
+El que els felins no van preveure, és que el nostre Mickey "Python" Mouse, se les sabia llargues i feia de cambrer a la cerveseria!
+
+(continua aquí la nostra historia...)
