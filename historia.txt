@@ -18,4 +18,6 @@ El que els felins no van preveure, és que el nostre Mickey "Python" Mouse, se l
 Aquella cervesa de formatge era la més bona que mai havien tastat. I després de la primera no s'hi van saber estar de prendre una segona.
 Sense saber-ho, havien arribat l'estat més òptim de programació, anomenat "Ballmer Peak".
 
+Cansats de tanta cervesa, van decidir anar de viatge.
+
 (continua aquí la nostra historia...)
