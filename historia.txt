@@ -20,4 +20,6 @@ Sense saber-ho, havien arribat l'estat més òptim de programació, anomenat "Ba
 
 Cansats de tanta cervesa, van decidir anar de viatge.
 
+Hi havia multitud de destinacions per felins, i no tenien ni idea de quina triar. A més, els llocs web que consultaven no estaven gaire ben fets i hi trobaven errors i pegues. Van decidir comprar un bitllet de tren a través del lloc web que no tingués errors i fos responsive. A la resta, els enviarien un mail per si els interessava els serveis d'un freelance repara-webs...
+
 (continua aquí la nostra historia...)

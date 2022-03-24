@@ -1,0 +1,1 @@
+Hola sóc en Jordi Llop i estic en ple reciclatge professional. Vinc d'un món que res té a veure amb la programació web. Acabo d'acabar FDLP i estic a la cua de Vue. Mentrestant, he fet un intensiu de Git i Github i m'han passat aquest exercici.
