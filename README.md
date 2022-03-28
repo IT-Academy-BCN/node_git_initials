@@ -14,9 +14,10 @@ Hauràs de fer les següents tasques per superar l'exercici:
 2. Clona el repositori creat a la teva màquina
 3. Fes una branca nova des de `main` amb el teu nom
 4. Afegeix a la carpeta `presentacions` un document de text .txt amb la teva presentació personal
-5. Afegeix una frase a la historia que estem escrivint entre tots al document `historia.txt`
+5. Afegeix una frase a la historia que estem escrivint entre tots al document `historia.txt` (hi ha alguna incoherència a la història o assumptes que no s'han acabat de tancar, tindràs punts extra si els arregles sense canviar gaire el sentit de la història 😜)
 6. Obre una _pull-request_ de la teva branca a la branca `main` del repositori inicial (el de IT Academy, no el teu)
 7. Comunica-ho al mentor perquè accepti (o no) els canvis que has realitzat al repositori
+
 
 <br>
 
