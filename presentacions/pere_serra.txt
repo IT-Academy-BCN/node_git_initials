@@ -1,0 +1,3 @@
+Hola, sóc el Pere!
+
+Estic encantat de començar node.js per aprendre backend!
