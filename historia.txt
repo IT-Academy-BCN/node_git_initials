@@ -1,5 +1,4 @@
-Hi havia una vegada un ratolí que vivía en un forat 
-ple de fulles i brossa al peu d'un arbre 
+Hi havia una vegada un ratolí que vivía en un forat ple de fulles i brossa al peu d'un arbre 
 fins que l'especulació va deforestar el seu hàbitat i va haver de buscar-se la vida:
 va decidir fer el curs de Node.js.
 
@@ -15,31 +14,32 @@ Per això va haver de sortir a caçar ratolins amb els seus companys de programa
 però abans van parar en un bar a prendre una cervesa de formatge.
 
 El que els felins no van preveure, és que el nostre Mickey "Python" Mouse, se les sabia llargues i feia de cambrer a la cerveseria!
-Aquella cervesa de formatge era la més bona que mai havien tastat. I després de la primera no s'hi van saber estar de prendre una segona.
-Sense saber-ho, havien arribat l'estat més òptim de programació, anomenat "Ballmer Peak". Això semblava que no tenia punt de retorn.
+Aquella cervesa de formatge era la més bona que mai havien tastat. 
+I després de la primera no s'hi van saber estar de prendre una segona.
+Sense saber-ho, havien arribat l'estat més òptim de programació, anomenat "Ballmer Peak". 
+Això semblava que no tenia punt de retorn.
 
-Cansats de tanta cervesa, van decidir anar de viatge.
+Cansats de tanta cervesa, van decidir anar de viatge. 
+Hi havia multitud de destinacions per felins, i no tenien ni idea de quina triar. 
+A més, els llocs web que consultaven no estaven gaire ben fets i hi trobaven errors i pegues. 
+Van decidir comprar un bitllet de tren a través del lloc web que no tingués errors i fos responsive. 
+A la resta, els enviarien un mail per si els interessava els serveis d'un freelance repara-webs.
 
-Hi havia multitud de destinacions per felins, i no tenien ni idea de quina triar. A més, els llocs web que consultaven no estaven gaire ben fets i hi trobaven errors i pegues. Van decidir comprar un bitllet de tren a través del lloc web que no tingués errors i fos responsive. A la resta, els enviarien un mail per si els interessava els serveis d'un freelance repara-webs...
+Potser els felins haurien d'haver mirat millor el destí que van triar, ja que van acabar a la capital de Gosland, BupCity. 
+Tothom els mirava i els feia grrrrrr. Van plantejar-se comprar immediatament un altre bitllet per viatjar a un lloc més acullidor. 
+Per exemple, no havien estat mai a FelixLand. 
 
-Potser els felins haurien d'haver mirat millor el destí que van triar, ja que van acabar a la capital de Gosland, BupCity. Tothom els mirava i els feia grrrrrr.
+Semblava que ja tenien destí! Però FelixLand tenia una característica que cap d'ells havia tingut en compte: 
+tots ells eren felins de casa i a FelixLand hi havia una banda de felins dels carrers. 
+Això feia que haguessin d'anar més alerta, ja que només arribar van començar els problemes i no eren ben rebuts a cap barri. 
+Els felins del carrer els feien la vida impossible, així que els nostres amics van tenir una genial idea per solucionar tot aquell enrenou: 
+haurien de fer-se passar per felins de carrer, cosa que no els hi sería fàcil. 
+Teníen el contacte d'en Garfield, que fins ara se n'havia sortit bé a FelixLand.
 
-Els felins van plantejar comprar immediatament un altre bitllet per viatjar a un lloc molt més acogedor, per exemple no havien estat mai a FelixLand.
+Però tenien un bon repte que van descobrir ben aviat: al carrer hi ha gossos. 
+Abans caçaven ratolins, ara els hi tocava ser caçats. 
+Tocava possar-se en forma ràpidament, per això mateix van decidir començar a fer "jogging" cada dia.
+Però no tenien ni idea de com es feia, per això el segon pas del pla era formar-se: 
+buscar tota la informació necessària ràpidament per trobar la manera més eficaç d'aconseguir-ho.
 
-Sembla que ja tenim destí!
-
-Però FelixLand tenia una caracteristica que cap d'ells havia tingut en compte, tots ells eren felins de casa, i a FelixLand hi havia una banda de felins dels carrers.
-
-Això feia que haguessin d'anar més alerta
-
-Només arribar van començar els problemes i no eren ben rebuts en cap barri. Els felins del carrer els feien la vida impossible, aixi que els nostres amics van tenir una genial idea per solucionar tot aquell enrenou.
-
-Haurien de fer-se passar per felins de carrer, cosa que no els hi sería fàcil. Teníen el contacte de Garfield, que fins ara se n'havia ensurtit bé a FelixLand.
-
-Però tenien un bon repte, que van descobrir ben aviat, al carrer hi ha gossos. Quan abans caçaven ratolins, ara els hi tocava ser caçats, tocava possar-se en forma ràpidament.
-
-Per això mateix van començar a fer "jogging" cada dia.
-
-Per això el segon pas del pla era formar-se. Buscar tota la informació necessària ràpidament per trobar la manera maz eficaç d'aconseguir-ho.
-
-(continua aquí la nostra historia...)
+(continua aquí la nostra historia... què ha passat amb els ratolins? i amb en Garfield?)
