@@ -42,9 +42,15 @@ Tocava possar-se en forma ràpidament, per això mateix van decidir començar a 
 Però no tenien ni idea de com es feia, per això el segon pas del pla era formar-se: 
 buscar tota la informació necessària ràpidament per trobar la manera més eficaç d'aconseguir-ho.
 
-Amb pressa, van sortir del cau per anar a la biblioteca a buscar informació sobre com córrer. Mirant el rellotge,  van adonar-se 
-que tancava en 20 minuts així que van apretar una mica el pas. Creuant la plaça se sentien de lluny dos pitbulls bestiotes 
-barallant-se. Nerviosos, van apretar una mica més el pas. Per no arribar tard van agafar una drecera creuant la terrassa d'un restaurant
-elegant, però els va veure un cambrer i va començar a empaitar-los així que van haver d'apretar encara més el pas. Van arribar a la 
-biblioteca sense alè però buscant informació sobre com s'ha de correr van veure que ja ho havien fet (cha-chaaan!).
+Per això, van decidir crear la lliga dels gat perseguits. La seva finalitat era el rescat
+de qualsevol gat que es trobés a Gosland City.
+Normalment les tasques eren nocturnes perquè els gossos eren massa numerosos durant el dia.
+Van anomenar a un ga tfamós per aquells indrets com a lider de la formació, anomenat "Don Gato".
+
+Per sort la persecució que patien per part dels gossos va fer dels gats de la lliga individus conscienciats
+que no menjaven ratolins. El gat que es volgués enrolar havia abans de jurar solemne "els ratolins son amics, no menjar".
+I tot això ho feien perquè l'autèntic cervell de tota la operació era el nostre intrèpid ratolinet que des de la base dirigia les
+operacions i construia la tecnologia que els gats de la lliga feien servir: comunicacions secretes, bases de dades de dolents, un 
+avió supersònic... Tot fet amb node.js, es clar. 
+
 (continua aquí la nostra historia... què ha passat amb els ratolins? i amb en Garfield?)
