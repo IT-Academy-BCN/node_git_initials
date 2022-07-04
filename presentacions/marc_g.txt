@@ -1,0 +1,3 @@
+Hola!
+Em dic Marc, vaig començar a programar a finals del 2021 i des de llavors estic enganxat.
+Tinc moltes ganes d'apendre JavaScript i començar a fer projectes interessants :)
