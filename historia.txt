@@ -42,10 +42,6 @@ Tocava possar-se en forma ràpidament, per això mateix van decidir començar a 
 Però no tenien ni idea de com es feia, per això el segon pas del pla era formar-se: 
 buscar tota la informació necessària ràpidament per trobar la manera més eficaç d'aconseguir-ho.
 
-<<<<<<< HEAD
-El seguent pas, lógicament, era anar a la biblioteca, entrenar la ment per desprès entrenar el cos.
-Però espera, es van dir, no ens estem complicant la vida? Potser hi havia una altra manera.
-=======
 Per això, van decidir crear la lliga dels gat perseguits. La seva finalitat era el rescat
 de qualsevol gat que es trobés a Gosland City.
 Normalment les tasques eren nocturnes perquè els gossos eren massa numerosos durant el dia.
@@ -56,6 +52,10 @@ que no menjaven ratolins. El gat que es volgués enrolar havia abans de jurar so
 I tot això ho feien perquè l'autèntic cervell de tota la operació era el nostre intrèpid ratolinet que des de la base dirigia les
 operacions i construia la tecnologia que els gats de la lliga feien servir: comunicacions secretes, bases de dades de dolents, un 
 avió supersònic... Tot fet amb node.js, es clar. 
->>>>>>> 275642e6bf3bd22bb0a89d780216988485e30a88
+
+El nom d'aquell ratolí no podia ser nombrat, ja que, de ser-ho, ja no podria lluitar pel be desde les ombres.
+Per evitar que el reconeguessin portava sovint unes ulleres de Groucho Meowrx.
+Els gats en veure'l desviaven la mirada per dissimular els riures que els evocava tal indumentaria
+fet que el feia pràcticament invisible a la societat gatuna.
 
 (continua aquí la nostra historia... què ha passat amb els ratolins? i amb en Garfield?)
