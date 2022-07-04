@@ -46,13 +46,13 @@ Per això, van decidir crear la lliga dels gat perseguits. La seva finalitat era
 de qualsevol gat que es trobés a Gosland City.
 Normalment les tasques eren nocturnes perquè els gossos eren massa numerosos durant el dia.
 Van anomenar a un gat famós per aquells indrets com a lider de la formació, anomenat "Don Gato".
-Don Gato era un gat sapastre que no fotia res en tot el dia, i que s'alimentava de la ingenuïtat
-dels seus col·legues per mantenir-se en el poder.
 
 Per sort la persecució que patien per part dels gossos va fer dels gats de la lliga individus conscienciats
 que no menjaven ratolins. El gat que es volgués enrolar havia abans de jurar solemne "els ratolins son amics, no menjar".
 I tot això ho feien perquè l'autèntic cervell de tota la operació era el nostre intrèpid ratolinet que des de la base dirigia les
 operacions i construia la tecnologia que els gats de la lliga feien servir: comunicacions secretes, bases de dades de dolents, un 
 avió supersònic... Tot fet amb node.js, es clar. 
+Al cap d'un temps es va adonar que la combinació de node amb React no era tan bona com s'esperaven i van canviar a Spring Boot
+amb Java construir tota la seva fantàstica tecnologia.
 
 (continua aquí la nostra historia... què ha passat amb els ratolins? i amb en Garfield?)
