@@ -55,4 +55,9 @@ avió supersònic... Tot fet amb node.js, es clar.
 Al cap d'un temps es va adonar que la combinació de node amb React no era tan bona com s'esperaven i van canviar a Spring Boot
 amb Java construir tota la seva fantàstica tecnologia.
 
+El nom d'aquell ratolí no podia ser nombrat, ja que, de ser-ho, ja no podria lluitar pel be desde les ombres.
+Per evitar que el reconeguessin portava sovint unes ulleres de Groucho Meowrx.
+Els gats en veure'l desviaven la mirada per dissimular els riures que els evocava tal indumentaria
+fet que el feia pràcticament invisible a la societat gatuna.
+
 (continua aquí la nostra historia... què ha passat amb els ratolins? i amb en Garfield?)
