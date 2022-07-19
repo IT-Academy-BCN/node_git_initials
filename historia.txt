@@ -56,3 +56,7 @@ Al cap d'un temps es va adonar que la combinació de node amb React no era tan b
 amb Java construir tota la seva fantàstica tecnologia.
 
 (continua aquí la nostra historia... què ha passat amb els ratolins? i amb en Garfield?)
+
+Els ratolins havien de fer reskilling per poder ser molt bons programant amb Java.
+Així doncs es van apuntar a un bootcamp per poder fer apendre el més ràpid possible.
+La sorpresa va ser quan va entrar el profesor, era en Garfield!
