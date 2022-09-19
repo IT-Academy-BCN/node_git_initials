@@ -1,0 +1,3 @@
+Hola,
+Em dic Boris Masó i estic començant amb el curs de BAck-end Node.js.
+Encantat de treballar amb vosaltres i moltes gràcies per el vostre temps!
