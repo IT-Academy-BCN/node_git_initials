@@ -9,9 +9,9 @@ Van decidir començar a fer projectes tots junts perquè ja sabem que la unió f
 
 Un dia es va presentar un problema que no sabien com resoldre:
 la gateta no havia esmorzat i tenia molta gana, així que van optar per buscar informació a internet.
-El que van trobar no pintava gaire bé pel ratolí, i es que els mixets prefereixen un ratolí ben cuit que una amanida.
-Per això va haver de sortir a caçar ratolins amb els seus companys de programació, 
-però abans van parar en un bar a prendre una cervesa de formatge.
+El que van trobar no pintava gaire bé pel ratolí, i es que els mixets prefereixen un ratolí ben cuit abans que una amanida.
+Per això la gateta va haver de sortir a caçar ratolins amb els seus companys gats de programació, porbablement per al bé de tothom.
+Encara no havien sortit del Poblenou quan van parar en un bar a prendre una cervesa de formatge.
 
 El que els felins no van preveure, és que el nostre Mickey "Python" Mouse, se les sabia llargues i feia de cambrer a la cerveseria!
 Aquella cervesa de formatge era la més bona que mai havien tastat. 
@@ -19,14 +19,14 @@ I després de la primera no s'hi van saber estar de prendre una segona.
 Sense saber-ho, havien arribat l'estat més òptim de programació, anomenat "Ballmer Peak". 
 Això semblava que no tenia punt de retorn.
 
-Cansats de tanta cervesa, van decidir anar de viatge. 
+Cansats de tanta cervesa, van decidir anar de viatge.
 Hi havia multitud de destinacions per felins, i no tenien ni idea de quina triar. 
 A més, els llocs web que consultaven no estaven gaire ben fets i hi trobaven errors i pegues. 
 Van decidir comprar un bitllet de tren a través del lloc web que no tingués errors i fos responsive. 
 A la resta, els enviarien un mail per si els interessava els serveis d'un freelance repara-webs.
 
 Potser els felins haurien d'haver mirat millor el destí que van triar, ja que van acabar a la capital de Gosland, BupCity. 
-Tothom els mirava i els feia grrrrrr. Van plantejar-se comprar immediatament un altre bitllet per viatjar a un lloc més acullidor. 
+Tothom els mirava i els feia grrrrrr. Van plantejar-se comprar immediatament un altre bitllet per viatjar a un lloc més acollidor. 
 Per exemple, no havien estat mai a FelixLand. 
 
 Semblava que ja tenien destí! Però FelixLand tenia una característica que cap d'ells havia tingut en compte: 
@@ -43,7 +43,8 @@ Però no tenien ni idea de com es feia, per això el segon pas del pla era forma
 buscar tota la informació necessària ràpidament per trobar la manera més eficaç d'aconseguir-ho.
 
 Per això, van decidir crear la lliga dels gat perseguits. La seva finalitat era el rescat
-de qualsevol gat que es trobés a Gosland City.
+de qualsevol gat que es trobés a Felixland, començant per casa pel moment, però amb vistes 
+a expandir l'operació a Goslandia en un futur.
 Normalment les tasques eren nocturnes perquè els gossos eren massa numerosos durant el dia.
 Van anomenar a un gat famós per aquells indrets com a lider de la formació, anomenat "Don Gato".
 
@@ -55,4 +56,20 @@ avió supersònic... Tot fet amb node.js, es clar.
 Al cap d'un temps es va adonar que la combinació de node amb React no era tan bona com s'esperaven i van canviar a Spring Boot
 amb Java construir tota la seva fantàstica tecnologia.
 
-(continua aquí la nostra historia... què ha passat amb els ratolins? i amb en Garfield?)
+De fet, la gata i la resta de la lliga de gats extraordinaris
+havien deixat de banda l'itinerari de node al segon sprint i cap d'ells tenia la mes mínima idea del que s'estava fent. El ratolí,
+per la seva banda, tampoc anava cami del sou de sis xifres precisament, ja que estava seguint la filosofia de "fake it 'till you make it" 
+abusant de videotutorials del HolaMundo i TheNetNinja.
+Com ja se sap, en país de cecs el borni és el rei.
+
+Recapitulant, el nostre menut ratolí havia aconseguit arribar pels pèls al sprint 4 entregant nivells 1 sense pudor ni vergonya,
+mentre que la gateta amb tant de viatge ja havia gastat més de la meitat d'absencies permeses. D'altra banda, ella i la resta de
+gats amorosos estaven traient matricules al curs de soft skills. Gràcies a les habilitats transversals que van desenvolupar
+sota el tutelatge de Garfield quan van apendre a fer-se passar per gats de carrer, adaptant-se al seu nou entorn i aprofitar
+oportunitats de networking per sobreviure. El ratolí, que era tan espavilat com dropo, va tenir un moment de lucidesa i va decidir
+convencer la seva amiga gata per tornar a la IT Academy i implicar-se una mica més en la seva formació, tot deixant el front-end
+de la operació als gats ex-caçadors dels que ja ningú esperava res.
+
+(continua aquí la nostra historia... Idees pel proper: -que pasa amb els gats que s'han quedat a Felixland? Conseguiran passar al
+no presencial i acabar el seu itinerari in extremis? Podran acabar amb la discriminació a Felixland i Goslandia? I de la nostra 
+parella d'amics? Com sera el retorn de la gata i el ratolí a l'academia? conseguiran acabar l'itinerari i fer nous amics?)
