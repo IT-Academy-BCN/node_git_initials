@@ -1,0 +1,3 @@
+Hola!
+Sóc el Tomas Sans
+Començo aquest curs de NodeJS Backend amb la finalitat de reciclar els mes coneixemnts informàtics pre-històrics! 
