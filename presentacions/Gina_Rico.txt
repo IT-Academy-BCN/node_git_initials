@@ -1,0 +1,4 @@
+Hola, sóc la Gina Rico i tinc 29 anys. Vaig estudiar el grau d'Informació i Documentació i he estat treballant a diferents llocs dins de la Generalitat. Després vaig
+decidir passar-me al món de la programació i vaig fer el cicle de desenvolupament d'aplicacions multiplataforma. Com que per desgràcia a l'educació pública trobes les bases però no tecnologies actualitzades, vaig decidir apuntar-me a aquest curs per poder aprendere tecnologies utilitzades actualment al mercat i així continuar aprenent a 
+desenvolupar, que això no s'acaba mai!
+
